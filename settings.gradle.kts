@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Oving7"
+rootProject.name = "MovieDirectorRegisterApp"
 include(":app")
  

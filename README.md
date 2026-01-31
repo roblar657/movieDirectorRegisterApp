@@ -3,7 +3,7 @@
 
 App som lar en søke på regisører, skuespiller og filmer
 
-## Laster inn ustrukturerte fra følgende filer
+## Funker ved å laste inn ustrukturerte fra følgende filer
 
 ### actors.csv med følgende format
 
@@ -33,7 +33,7 @@ movie_title,  movie_year,  director_name
 
 
 
-## Skriver ut til database og til egne filer i følgende format
+## Appen skriver ut til database, og egne filer, i følgende format
 
 
 

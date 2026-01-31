@@ -4,7 +4,7 @@
 
 ### actors.csv med følgende format
 
-first_name,last_name,movie_title,movie_year,movie_director
+first_name,  last_name,  movie_title,  movie_year,  movie_director
 
 ---------- --------- --------- ---------- -----
 
@@ -17,7 +17,7 @@ first_name,last_name,movie_title,movie_year,movie_director
 
 ### movies.csv med følgende format
 
-movie_title,movie_year,director_name
+movie_title,  movie_year,  director_name
 
 
 ---------- --------- --------- ---------- -----

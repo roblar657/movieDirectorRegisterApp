@@ -29,8 +29,6 @@ Kon-Tiki,2012,Joachim Rønning & Espen Sandberg
 
 <img width="377" height="789" alt="Skjermbilde 2026-01-31 220031" src="https://github.com/user-attachments/assets/462fd808-a4e7-4a8f-b2b4-a9a4e3f52ed7" />
 
-<img width="349" height="754" alt="Skjermbilde 2026-01-31 220040" src="https://github.com/user-attachments/assets/41fe9e46-e65b-4412-b237-be05dbe6e7cb" />
-
 
 <img width="1197" height="580" alt="Skjermbilde 2026-01-31 220120" src="https://github.com/user-attachments/assets/2f2abf88-0bad-4231-b92a-dfc6f20b0a0b" />
 

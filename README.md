@@ -3,7 +3,7 @@
 
 App som lar en søke på regisører, skuespiller og filmer
 
-## Funker ved å laste inn ustrukturerte fra følgende filer
+## Funker ved å laste inn ustrukturert data fra følgende filer
 
 ### actors.csv med følgende format
 

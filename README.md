@@ -1,7 +1,7 @@
 
-#Movie director register app
+# Movie director register app
 
-#Bilder
+# Bilder
 <img width="346" height="770" alt="Skjermbilde 2026-01-31 220009" src="https://github.com/user-attachments/assets/2a4445bb-2d64-4f47-9f28-be4dc3e5f311" />
 
 <img width="349" height="792" alt="Skjermbilde 2026-01-31 220020" src="https://github.com/user-attachments/assets/dc72249e-ff4e-4403-9837-d9ebaf83be1e" />

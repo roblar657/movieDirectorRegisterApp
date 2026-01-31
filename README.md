@@ -1,5 +1,8 @@
 
 # Movie director register app
+
+App som lar en søke på regisører, skuespiller og filmer
+
 ## Laster inn ustrukturerte fra følgende filer
 
 ### actors.csv med følgende format

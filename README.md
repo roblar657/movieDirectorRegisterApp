@@ -1,25 +1,27 @@
 
 # Movie director register app
-# Laster inn ustrukturerte data
+# Laster inn ustrukturerte fra følgende filer
 
-### actors.csv
+### actors.csv med følgende format
 
 first_name,last_name,movie_title,movie_year,movie_director
 Aksel,Hennie,Max Manus,2008,Joachim Rønning & Espen Sandberg
 Agnes,Kittelsen,Max Manus,2008,Joachim Rønning & Espen Sandberg
 Pål,Sverre Hagen,Kon-Tiki,2012,Joachim Rønning & Espen Sandberg
 
-### movies.csv
+### movies.csv med følgende format
 movie_title,movie_year,director_name
 Max Manus,2008,Joachim Rønning & Espen Sandberg
 Kon-Tiki,2012,Joachim Rønning & Espen Sandberg
 
-"
+
 ## Skriver ut til database og til egne filer i følgende format
 
-# Bilder av UI
+
 
 <img width="1506" height="705" alt="image" src="https://github.com/user-attachments/assets/01c96f76-e8bf-4d01-8691-d6e935949573" />
+
+# Bilder av UI
 
 <img width="346" height="770" alt="Skjermbilde 2026-01-31 220009" src="https://github.com/user-attachments/assets/2a4445bb-2d64-4f47-9f28-be4dc3e5f311" />
 

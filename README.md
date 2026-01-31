@@ -7,9 +7,7 @@
 first_name,last_name,movie_title,movie_year,movie_director
 
 Aksel,Hennie,Max Manus,2008,Joachim Rønning & Espen Sandberg
-
 Agnes,Kittelsen,Max Manus,2008,Joachim Rønning & Espen Sandberg
-
 Pål,Sverre Hagen,Kon-Tiki,2012,Joachim Rønning & Espen Sandberg
 
 
@@ -17,7 +15,6 @@ Pål,Sverre Hagen,Kon-Tiki,2012,Joachim Rønning & Espen Sandberg
 movie_title,movie_year,director_name
 
 Max Manus,2008,Joachim Rønning & Espen Sandberg
-
 Kon-Tiki,2012,Joachim Rønning & Espen Sandberg
 
 
